@@ -1,9 +1,6 @@
 Conditional HTML Classes
 =====================
-
-A series of IE conditional comments apply the relevant IE-specific classes to the 'html' tag. This provides one method of specifying CSS fixes for specific legacy versions of IE.
-
-When using the conditional classes technique, applying classes to the 'html' element has several benefits:
+When using the conditional classes technique, applying classes to the `<html>` element has several benefits:
 * Less HTTP requests (calling 1 stylesheet rather than 2 or 3).
 * It keeps your CSS rule in one place.
 * It can improve the clarity of code in multi-developer teams.
@@ -17,7 +14,7 @@ When using the conditional classes technique, applying classes to the 'html' ele
 <!--[if (IE 9)&!(IEMobile)]><html class="no-js ie ie9" lang="en"><![endif]-->
 ```
 
-## How to Use it
+## How to use it
 With the above markup in place we can do stuff like this in within the core stylesheet
 ```
 h1 { color: pink } 
