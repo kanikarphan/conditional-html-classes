@@ -1,0 +1,9 @@
+
+h3 span.label { display: none }
+.ie h3 span.ie.label, 
+.ie7 h3 span.ie7.label, 
+.lt-ie8 h3 span.lt-ie8.label, 
+.ie8 h3 span.ie8.label, 
+.lt-ie9 h3 span.lt-ie9.label, 
+.ie9 h3 span.ie9.label, 
+.lt-ie10 h3 span.lt-ie10.label { display: inline }
