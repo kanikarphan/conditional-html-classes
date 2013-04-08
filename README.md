@@ -24,12 +24,12 @@ h1 { color: pink }
 
 ## Each class stands for...
 ```
-ie - All version of internet explorer
-ie7 - internet explorer version 7
-lt-ie8 - internet explorer version less than 8
-ie8 - internet explorer version 8
-lt-ie9 - internet explorer version less than 9
-ie9 - internet explorer version 9
+ie 			// all version of internet explorer
+ie7 		// internet explorer version 7
+lt-ie8 	// internet explorer version less than 8
+ie8 		// internet explorer version 8
+lt-ie9	// internet explorer version less than 9
+ie9 		// internet explorer version 9
 ```
 
 ## What about ie10?
